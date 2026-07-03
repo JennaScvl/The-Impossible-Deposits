@@ -8,9 +8,9 @@
 
 ---
 
-### From the field diary of Dr. Evelyn Marsh, Director, Fitzwilliam–Cairo Expedition, Western Valley of the Kings
+*From the field diary of Dr. Evelyn Marsh, Director, Fitzwilliam–Cairo Expedition, Western Valley of the Kings*
 
-**28 November 1934.**
+*28 November 1934.*
 
 The doorway is intact.
 
@@ -20,11 +20,11 @@ Necropolis seals in the plaster, unbroken. The jackal and nine captives, and bel
 
 The rubble fill behind the door is cemented with flood silt. Whatever is below has not been entered since that silt came down the wadi, and Bishara says the flood debris in this stretch of the Valley has lain undisturbed since before the Third Intermediate Period. Wilkes has photographed the sealing from nine angles. Tomorrow we breach.
 
-**1 December 1934.**
+*1 December 1934.*
 
 Sixteen steps, a descending corridor, a second sealed doorway. Antechamber modest by Tutankhamun's standard, this was a poor king, or a rushed one, but complete. Chariot fittings, boxes of provisions, dried garlands, dockets in ink. The air was old. There is a smell an unopened tomb has that I will not attempt for this page.
 
-**4 December 1934.**
+*4 December 1934.*
 
 The burial chamber.
 
@@ -36,7 +36,7 @@ Resting upon the chest of the king, square upon the crossed arms, placed with wh
 
 I mean the word precisely. A carton. Printed paperboard, perhaps ten inches by four, in colours, red, gold, a lurid cream-yellow, that do not belong to any palette I know from the second millennium before Christ, because they do not belong to the second millennium before Christ. There is writing on it. The writing is in English.
 
-The writing says **TWINKIES**.
+The writing says TWINKIES.
 
 Wilkes made his exposures in absolute silence. Bishara stood at my shoulder and did not move for some minutes, and then said, quietly, in French, which he retreats to when upset: *"Madame, someone has been in this tomb."*
 
@@ -50,7 +50,7 @@ I do not know what I have found. I know what it looks like I have found, which i
 
 ---
 
-### Letter, Dr. Evelyn Marsh to Prof. Lionel Grieve, Trinity College, Cambridge, 19 December 1934 (marked PERSONAL, BURN, *not burned*)
+*Letter, Dr. Evelyn Marsh to Prof. Lionel Grieve, Trinity College, Cambridge, 19 December 1934 (marked PERSONAL, BURN, *not burned*)*
 
 Lionel,
 
@@ -87,15 +87,11 @@ E.M.
 
 ---
 
-### Memorandum of understanding, handwritten, three signatures, Cairo, 4 January 1935
+*Memorandum of understanding, handwritten, three signatures, Cairo, 4 January 1935*
 
-Known informally thereafter as **the Concordat**.
+Known informally thereafter as *the Concordat*.
 
-1. Object WV27-113 ("the Confection") shall be preserved unaltered save for sampling as agreed by all custodians.
-2. Knowledge of the Object shall be confined to persons approved unanimously by the custodians, each of whom shall before death or retirement name and instruct a successor.
-3. No public statement shall be made until the Object's nature is understood.
-4. Every test that can be brought against the Object's authenticity *shall* be brought against it, as methods allow, in perpetuity.
-5. All results shall be recorded, however embarrassing.
+Object WV27-113 ("the Confection") shall be preserved unaltered save for sampling as agreed by all custodians. Knowledge of the Object shall be confined to persons approved unanimously by the custodians, each of whom shall before death or retirement name and instruct a successor. No public statement shall be made until the Object's nature is understood. Every test that can be brought against the Object's authenticity *shall* be brought against it, as methods allow, in perpetuity. All results shall be recorded, however embarrassing.
 
 *E. Marsh. G. Bishara. T. C. Wilkes.*
 
@@ -105,17 +101,17 @@ Beneath, in Marsh's hand, added later in different ink:
 
 ---
 
-### Comparison memorandum, Prof. L. Grieve, Cambridge, March 1935
+*Comparison memorandum, Prof. L. Grieve, Cambridge, March 1935*
 
 Subject: materials of Object 113 versus commercial reference specimens (Continental Baking Co. product, purchased Chicago, Feb. 1935; sundry British and American packagings).
 
-1. **Board.** The carton stock is a machine-made paperboard of remarkable uniformity, clay-coated on the print face. Fibre furnish is chemical wood pulp. Nothing impossible here, only implausibly *good*: calliper variation across the blank is under a thousandth of an inch. No mill I have consulted (discreetly, as "a question from a client in lithography") holds such tolerances in production.
+The board first. The carton stock is a machine-made paperboard of remarkable uniformity, clay-coated on the print face. Fibre furnish is chemical wood pulp. Nothing impossible here, only implausibly *good*: calliper variation across the blank is under a thousandth of an inch. No mill I have consulted (discreetly, as "a question from a client in lithography") holds such tolerances in production.
 
-2. **Print.** This is the sticking point. The image is composed of minute regular dots, as in half-tone work, but in four transparent inks laid in perfect register at a fineness I estimate at three to four times the best rotogravure of my acquaintance, and by a process that has left *no impression* in the board whatever. The ink film sits on the coating as if breathed there. I do not know of this process. I have shown a cropped fragment (lettering excluded) to two trade printers. Both asked me who had done it and one offered to buy the plates.
+The print. This is the sticking point. The image is composed of minute regular dots, as in half-tone work, but in four transparent inks laid in perfect register at a fineness I estimate at three to four times the best rotogravure of my acquaintance, and by a process that has left *no impression* in the board whatever. The ink film sits on the coating as if breathed there. I do not know of this process. I have shown a cropped fragment (lettering excluded) to two trade printers. Both asked me who had done it and one offered to buy the plates.
 
-3. **The inner wrappers**, visible through the carton window: a thin, glossy, flexible film, isotropic in appearance, heat-sealed, *heat-sealed*, note, not gummed. It is not cellophane; it does not behave like any cellulose derivative I possess. Density and burning behaviour suggest a paraffinic synthetic. I am aware of laboratory curiosities in polymerised olefines. I am not aware of anyone wrapping *cakes* in them.
+The inner wrappers, visible through the carton window: a thin, glossy, flexible film, isotropic in appearance, heat-sealed, *heat-sealed*, note, not gummed. It is not cellophane; it does not behave like any cellulose derivative I possess. Density and burning behaviour suggest a paraffinic synthetic. I am aware of laboratory curiosities in polymerised olefines. I am not aware of anyone wrapping *cakes* in them.
 
-4. **Conclusion.** If this is a forgery, it was not made to deceive an Egyptologist. Every element of it is wrong for antiquity and half the elements are wrong for *the present*. It is as if the forger had set out to imitate not the past but a rather breathless future, and had then hidden his masterpiece where its only effect would be to make three respectable scholars doubt their sanity.
+My conclusion. If this is a forgery, it was not made to deceive an Egyptologist. Every element of it is wrong for antiquity and half the elements are wrong for *the present*. It is as if the forger had set out to imitate not the past but a rather breathless future, and had then hidden his masterpiece where its only effect would be to make three respectable scholars doubt their sanity.
 
 I confess the problem is growing on me. You may put me down as a custodian.
 
@@ -127,7 +123,7 @@ L.G.
 
 ---
 
-### Letter, G. Bishara to E. Marsh, Luxor, September 1943
+*Letter, G. Bishara to E. Marsh, Luxor, September 1943*
 
 Evelyn,
 
@@ -142,7 +138,7 @@ Girgis
 
 ---
 
-### From the private diary of Prof. L. Grieve, Cambridge, 14 June 1952
+*From the private diary of Prof. L. Grieve, Cambridge, 14 June 1952*
 
 Dined at high table next to a visiting American chemist, very entertaining on the subject of his country's food. He held forth on a certain snack cake, *our* snack cake, though of course he could not know, and declared, to laughter, that the things were built to survive anything, that they never staled, that a packet of them would outlast the pyramids.
 
@@ -154,19 +150,13 @@ I have become very good at saying nothing.
 
 ---
 
-### Internal report, Custodial file 113/22, "Carbon-14 assay, blind submission", November 1956
+*Internal report, Custodial file 113/22, "Carbon-14 assay, blind submission", November 1956*
 
 Through an intermediary, three samples were submitted to a commercial-academic radiocarbon laboratory as unprovenanced material from "a private collection":
 
-- Sample A: linen from the king's outer wrappings.
-- Sample B: fragment of the cake residue (the contents are entirely desiccated; the cream centre survives as a friable brown lamina, on which subject the custodians have agreed to make no further remarks in writing).
-- Sample C: carton board fibre, 40 mg, taken from the concealed base flap.
+Sample A was linen from the king's outer wrappings. Sample B was a fragment of the cake residue (the contents are entirely desiccated; the cream centre survives as a friable brown lamina, on which subject the custodians have agreed to make no further remarks in writing). Sample C was carton board fibre, 40 mg, taken from the concealed base flap.
 
-Results:
-
-- Sample A: 3,240 ± 190 years before present. Consistent with the archaeology. Good.
-- Sample B: **910 ± 160 years** before present.
-- Sample C: **1,080 ± 170 years** before present.
+Results: Sample A: 3,240 ± 190 years before present. Consistent with the archaeology. Good. Sample B: 910 ± 160 years before present. Sample C: 1,080 ± 170 years before present.
 
 Note appended by Prof. Grieve:
 
@@ -180,7 +170,7 @@ File and continue.
 
 ---
 
-### From the diary of Dr. Naguib Rashid, Keeper, Custodial file, Cairo, 30 June 1974
+*From the diary of Dr. Naguib Rashid, Keeper, Custodial file, Cairo, 30 June 1974*
 
 Item in this week's *Time* magazine, which I take for the American packaging advertisements (my colleagues believe this is an eccentricity; it is the most serious thing I do): in an Ohio supermarket this month, a packet of chewing gum was passed over an electronic reader, which read a printed symbol and rang up the price automatically.
 
@@ -190,7 +180,7 @@ I went down to Room 9 tonight with the magazine and a hand lens and stood a long
 
 Forty years the stripes have been in the file as "decorative element, function unknown." Marsh went to her grave calling them "the little fence." They are not a fence. They are machine writing, and the machine has only now been built, and the world has only now caught up to the *label on the box*, never mind the box.
 
-I have written to the other custodians proposing a new working assumption, and I will record it here in plain words since the file is sealed regardless: **the Object is not imitating anything. It is an ordinary industrial product of a period that has not yet occurred, and our discipline's entire toolkit is designed for the opposite problem.**
+I have written to the other custodians proposing a new working assumption, and I will record it here in plain words since the file is sealed regardless: the Object is not imitating anything. It is an ordinary industrial product of a period that has not yet occurred, and our discipline's entire toolkit is designed for the opposite problem.
 
 Archaeology dates things that are older than they look. God help us, we have found something younger than its stratigraphy.
 
@@ -198,7 +188,7 @@ There remains the chequered square, which no reader in Ohio or anywhere else can
 
 ---
 
-### Report, Custodial file 113/47, "Wrapper polymer, differential scanning calorimetry and infrared assay", University contact (unattributed), 1979
+*Report, Custodial file 113/47, "Wrapper polymer, differential scanning calorimetry and infrared assay", University contact (unattributed), 1979*
 
 The film is biaxially oriented polypropylene, metallised on the inner face, with a heat-seal coating and an antioxidant package. Every element of this is, as of this decade, commercially current, the anomaly of 1935 has quietly evaporated; Grieve's "paraffinic synthetic" is now on every sweet counter in Europe.
 
@@ -214,16 +204,11 @@ Well, I thought. About that.
 
 ---
 
-### Custodial file 113/63, Micro-stratigraphy of chamber dust (samples archived 1934, re-sectioned 1988–1991)
+*Custodial file 113/63, Micro-stratigraphy of chamber dust (samples archived 1934, re-sectioned 1988–1991)*
 
 Marsh's insistence in 1934 on lifting intact dust columns in gelatine was regarded by Wilkes as theatrical. It has proved to be the single most valuable decision in the file.
 
-The dust overlying and adjacent to Object 113 preserves **thirty-one distinguishable laminae**, correlating bed-for-bed with control columns from the far side of the chamber. Within them:
-
-- A silt-enriched band, geochemically matched to flood deposits in neighbouring tombs and dated by association to a storm event in approximately the 9th century BCE, present *above* the Object, undisturbed.
-- Limestone spall micro-debris from at least two seismic episodes, likewise above.
-- Pollen spectra consistent throughout with local flora, including taxa that declined regionally after the Ptolemaic period, in the upper laminae only, exactly as in the controls.
-- Fragmentary remains of dermestid beetles in three laminae, including a form not recorded in the Theban necropolis in modern collections.
+The dust overlying and adjacent to Object 113 preserves thirty-one distinguishable laminae, correlating bed-for-bed with control columns from the far side of the chamber. Within them: there is a silt-enriched band, geochemically matched to flood deposits in neighbouring tombs and dated by association to a storm event in approximately the 9th century BCE, present *above* the Object, undisturbed. There is limestone spall micro-debris from at least two seismic episodes, likewise above. There are pollen spectra consistent throughout with local flora, including taxa that declined regionally after the Ptolemaic period, in the upper laminae only, exactly as in the controls. There are fragmentary remains of dermestid beetles in three laminae, including a form not recorded in the Theban necropolis in modern collections.
 
 There is no discontinuity. There is no infill, no resettled dust, no lamina that occurs beside the Object but not upon it. Whoever placed the carton in that chamber did so before the ninth century BCE, or else replaced three thousand years of dust, flood silt, earthquake spall, pollen rain, and dead beetles, in order, without error, in the dark.
 
@@ -231,7 +216,7 @@ The custodians note, per Clause 5, that we have now spent several meetings serio
 
 ---
 
-### Custodial file 113/71, Note on labelling regulation, 1994; extended 2016; extended 2043
+*Custodial file 113/71, Note on labelling regulation, 1994; extended 2016; extended 2043*
 
 1994: The United States mandates a standardised "Nutrition Facts" panel on packaged foods. Its format, rules, weights, ordering, matches the tabulated block on Object 113 in general architecture, though not in detail. The Object's panel contains lines with no regulatory meaning: among them "Added Sugars," and below the table two small certification marks and an indexed figure labelled in a phrasing that corresponds to nothing in any jurisdiction.
 
@@ -239,13 +224,13 @@ The custodians note, per Clause 5, that we have now spent several meetings serio
 
 2043: The Pan-American food-labelling accord introduces a mandatory processed-food index, displayed as a small boxed figure beneath the nutrition panel. Format, placement, and typography match the Object. Another discrepancy retired.
 
-The Keeper wishes the following observation entered formally, because it has become the file's quiet terror: **the Object is a self-authenticating document on a timer.** We have stopped asking whether the world will finish converging on it. We now ask only *when*, and we note that the remaining unmatched features, the chequered code, the lot string, the trade dress itself, are precisely those tied not to law or technology but to one company's internal decisions.
+The Keeper wishes the following observation entered formally, because it has become the file's quiet terror: *the Object is a self-authenticating document on a timer.* We have stopped asking whether the world will finish converging on it. We now ask only *when*, and we note that the remaining unmatched features, the chequered code, the lot string, the trade dress itself, are precisely those tied not to law or technology but to one company's internal decisions.
 
 The Concordat was written to last until we understood the Object. It appears instead that it will last until the Object is *in shops*.
 
 ---
 
-### Transcript fragment, oral history recording, sealed, Dr. Ilse Nakamura, Keeper (11th), recorded 2059
+*Transcript fragment, oral history recording, sealed, Dr. Ilse Nakamura, Keeper (11th), recorded 2059*
 
 ...people will ask, when this opens, whenever it opens, people will ask: a hundred and twenty-five years, how could you sit on it? And I want whoever is listening to understand that we did not sit. There has never been an artefact in the history of the discipline tested like this one. Every generation of custodians made the same wager: *our* new methods will finally catch the forger. Radiocarbon. Chromatography. Electron microscopy. Racemisation clocks in the filling proteins, yes, we dated the *cream*, it dates ancient, next question. Thermoluminescence of the adhering dust. Accelerator mass spec, at three labs, blind. In the thirties we sampled cosmogenic isotopes in the board, carbon-14 made *in situ* by muons, in an object sitting under thirty metres of limestone; the accumulation profile says it sat under that limestone for roughly three thousand years, and there is no way to fake muon exposure, you cannot bribe muons...
 
@@ -263,7 +248,7 @@ I believe the end of it is in a warehouse somewhere being designed by a brand te
 
 ---
 
-### Columbus, Ohio, 14 March 2061
+*Columbus, Ohio, 14 March 2061*
 
 It was a Tuesday. It was an errand.
 
@@ -279,7 +264,7 @@ Red. Gold. The lurid cream-yellow. The window. TEN CAKES, INDIVIDUALLY WRAPPED. 
 
 She took out her reading glasses. She looked at the nutrition panel, at the boxed index figure beneath it, at the small chequered square, at the lot string printed along the base flap in the format she had known by heart since she was thirty-four:
 
-**L4 · 073 · EMP**
+L4 · 073 · EMP
 
 Line four. Day seventy-three. Emporia.
 
@@ -291,16 +276,11 @@ Then she bought eleven of them, which emptied the shelf, and drove home very car
 
 ---
 
-### Custodial file 113/88, Forensic comparison, Object 113 vs. production batch L4-073-2061-EMP (conducted with manufacturer's cooperation under seal), August 2061
+*Custodial file 113/88, Forensic comparison, Object 113 vs. production batch L4-073-2061-EMP (conducted with manufacturer's cooperation under seal), August 2061*
 
 Under a non-disclosure instrument whose negotiation the file politely declines to describe, the brand's current corporate parent, its fifth, granted access to line records, print tooling, and materials certifications.
 
-Findings:
-
-1. **Trade dress:** identical to the 2061 refresh in every element, to the limit of measurement. The design was developed 2058–2060 by an external agency; the design files, versioned and timestamped, show ordinary iteration, seventeen rejected comps, one crisis over the yellow, with no discontinuity, no incursion, and no personnel with any conceivable link to the file.
-2. **Lot string L4 · 073 · EMP:** conforms to the plant coding scheme introduced company-wide in January 2061. Line 4, Emporia, ran the new carton on day 073. Object 113 is, by its own label, a unit of that batch.
-3. **Print:** the rotary process leaves a periodic micro-defect from a scratch on cylinder 3 (magenta), present across the sampled 2061 run. The identical defect, at identical period and phase, is present on Object 113, overlaid, in the Object's case, by thirty-three centuries of ink-film degradation.
-4. **Board, film, adhesives, resin batch markers:** matched, matched, matched, matched.
+The findings: the trade dress is identical to the 2061 refresh in every element, to the limit of measurement. The design was developed 2058–2060 by an external agency; the design files, versioned and timestamped, show ordinary iteration, seventeen rejected comps, one crisis over the yellow, with no discontinuity, no incursion, and no personnel with any conceivable link to the file. The lot string L4 · 073 · EMP conforms to the plant coding scheme introduced company-wide in January 2061. Line 4, Emporia, ran the new carton on day 073. Object 113 is, by its own label, a unit of that batch. The print: the rotary process leaves a periodic micro-defect from a scratch on cylinder 3 (magenta), present across the sampled 2061 run. The identical defect, at identical period and phase, is present on Object 113, overlaid, in the Object's case, by thirty-three centuries of ink-film degradation. Board, film, adhesives, resin batch markers: matched, matched, matched, matched.
 
 The two objects differ in exactly one measurable respect: age.
 
@@ -312,7 +292,7 @@ Recommend disclosure.
 
 ---
 
-### The Cairo Disclosure, press conference, Egyptian Museum, 9 June 2062 (transcript excerpt)
+*The Cairo Disclosure, press conference, Egyptian Museum, 9 June 2062 (transcript excerpt)*
 
 DR. NAKAMURA: ...and so the deposition lodged with Barclays in 1935 was opened yesterday before notaries, representatives of the Ministry, and three independent forensic photography teams. The plates are genuine, unaltered, and were sealed in January 1935. You have the enlargements in your materials. The barcode on the carton in those 1934 photographs scans. It returns the correct product. The QR code resolves. It resolves to a promotional address registered by the manufacturer in 2060, which currently offers a coupon.
 
@@ -328,7 +308,7 @@ DR. NAKAMURA: What is left is a finding. The finding is this: the manufacturing 
 
 ---
 
-### *Journal of Archaeological Science*, vol. 214 (2062): reviewer comments on submission JAS-62-0331, "Decoupled Manufacturing and Depositional Chronologies in the WV27 Carton: A 126-Year Evidentiary Synthesis"
+*Journal of Archaeological Science, vol. 214 (2062): reviewer comments on submission JAS-62-0331, "Decoupled Manufacturing and Depositional Chronologies in the WV27 Carton: A 126-Year Evidentiary Synthesis"*
 
 REVIEWER 1: Methodologically unimpeachable, which is the problem. I have spent three weeks trying to find the flaw the authors missed. The authors missed nothing. Their predecessors missed nothing. I recommend publication and I resent it.
 
@@ -342,7 +322,7 @@ REVIEWER 3 (declined to review, comment forwarded by editor): I was taught that 
 
 ---
 
-### Zaoyang, Hubei Province, 28 June 2062
+*Zaoyang, Hubei Province, 28 June 2062*
 
 The Cairo Disclosure was nineteen days old, and Director Wen Zhaodi was on record about it.
 
@@ -370,7 +350,7 @@ Student Fan, resuming the log with the heroism of the very junior, entered: *One
 
 ---
 
-### Joint communiqué, Hubei Provincial Institute of Cultural Relics and the Egyptian Ministry of Tourism and Antiquities, 30 August 2062
+*Joint communiqué, Hubei Provincial Institute of Cultural Relics and the Egyptian Ministry of Tourism and Antiquities, 30 August 2062*
 
 ...independent verification of the sealed context is complete. The kaolin clay dome above Tomb M17 was intact, continuously waterlogged, and geochemically undisturbed since closure in the fourth century BCE. Anoxic corrosion chemistry, mineral encrustation, sediment lamination, and isotopic assays of the vessel's contents (the can is full; the contents have not aged well; further remarks are declined) independently indicate continuous submersion for approximately 2,380 years.
 
@@ -378,9 +358,7 @@ The vessel's alloy, its closure, and elements of its trade dress correspond to n
 
 In view of the WV27 precedent, the following protocol ("the Wen Protocol") takes immediate effect for this and all future such finds:
 
-1. Full disclosure within ninety days. There will be no second Concordat; the first one is deemed to have used up the discipline's entire allotment.
-2. All analyses pre-registered and blinded.
-3. Each participating institution shall lodge with notaries a sealed, dated prediction of the artefact's eventual manufacturing date, derivable from isotopic and materials trajectories.
+There shall be full disclosure within ninety days. There will be no second Concordat; the first one is deemed to have used up the discipline's entire allotment. All analyses shall be pre-registered and blinded. Each participating institution shall lodge with notaries a sealed, dated prediction of the artefact's eventual manufacturing date, derivable from isotopic and materials trajectories.
 
 The median sealed prediction, it can be disclosed, falls in the early twenty-second century.
 
@@ -388,7 +366,7 @@ The custodial tradition of plain words is hereby adopted as well: everyone now u
 
 ---
 
-### Letter, Dr. Wen Zhaodi to Dr. Ilse Nakamura, October 2062
+*Letter, Dr. Wen Zhaodi to Dr. Ilse Nakamura, October 2062*
 
 Dear Dr. Nakamura,
 
@@ -396,7 +374,7 @@ Thank you for your kind message, and for the case files, and for the eleven refe
 
 You ask how I am. I will tell you what I have told no journalist. When I saw it on the feed I did not feel wonder. I felt *recognition*, and then I felt tired, the way you feel tired on behalf of someone else, in this case on behalf of everyone who will hold my post for the next hundred years. You waited your whole life at the far end of your object's interval. I am at the near end of mine. I have seen your file; I know exactly what the next century of my successors' careers looks like; it looks like being right too early, forever, in public.
 
-Nineteen days, Doctor. Nineteen days after your disclosure, and mine, the registries confirm, was the first intact sealed context opened anywhere on Earth after Cairo. Not the tenth. Not the third. The next one. Two millennia apart in the ground and nine days apart in the finding, as though the second were filed behind the first, awaiting the reader.
+Nineteen days, Doctor. Nineteen days after your disclosure, and mine, the registries confirm, was the first intact sealed context opened anywhere on Earth after Cairo. Not the tenth. Not the third. The next one. Two millennia apart in the ground and nineteen days apart in the finding, as though the second were filed behind the first, awaiting the reader.
 
 I do not believe in a malicious author of this. Malice would have left us something dangerous, or useful, or at least dignified. We have been left refreshments. I believe we are dealing with a sense of humour, operating at a scale for which there is no criminal statute, and I find, against every instinct of a serious woman, that some nights this is the only thought that lets me sleep: whoever did this *knew we would check everything*, and wanted us to, and is, in some century, delighted with us.
 
@@ -479,9 +457,9 @@ Then he picked up his empty bag and walked away down the path from the Valley, t
 
 ---
 
-### *Fundamentals of Archaeological Chronology*, 9th edition (2131), Chapter 1, "Special Reference Points" (excerpt)
+*Fundamentals of Archaeological Chronology, 9th edition (2131), Chapter 1, "Special Reference Points" (excerpt)*
 
-**The Twinkies Horizon** (1334 ± 10 BCE deposition; 2061 CE manufacture) and **the Coca-Cola Horizon** (c. 320 BCE deposition; manufacture pending, projected 2140s–2160s CE) denote the two securely documented instances of manufacturing–deposition decoupling (MDD). The student should note the field's terminology with some care. "Horizon" is used in the standard archaeological sense, a chronological marker of exceptional reliability, and the usage is not ironic: no objects in the global record have better-constrained deposition dates, and one of them additionally possesses, uniquely among all artefacts ever excavated, a manufacture date documented to the day *by the manufacturer*.
+The Twinkies Horizon (1334 ± 10 BCE deposition; 2061 CE manufacture) and the Coca-Cola Horizon (c. 320 BCE deposition; manufacture pending, projected 2140s–2160s CE) denote the two securely documented instances of manufacturing–deposition decoupling (MDD). The student should note the field's terminology with some care. "Horizon" is used in the standard archaeological sense, a chronological marker of exceptional reliability, and the usage is not ironic: no objects in the global record have better-constrained deposition dates, and one of them additionally possesses, uniquely among all artefacts ever excavated, a manufacture date documented to the day *by the manufacturer*.
 
 The student should further note what the horizons are not. They are not evidence of anachronistic technology transfer: no site associated with either horizon shows any cultural, technical, or economic perturbation whatsoever. Fourth-century Chu did not learn to draw aluminium. The New Kingdom baked as it had always baked. The deposits changed nothing at their end of the interval, and at our end they have changed only us.
 
@@ -489,7 +467,7 @@ Finally, the student is cautioned regarding the standard conclusion formula, *"n
 
 ---
 
-### The Marsh–Bishara Bicentennial Lecture, Egyptian Museum, Cairo, 4 December 2134 (closing minutes)
+*The Marsh–Bishara Bicentennial Lecture, Egyptian Museum, Cairo, 4 December 2134 (closing minutes)*
 
 PROF. A. OKONKWO: ...two hundred years tonight, to the evening, since Evelyn Marsh sat in a tent in the Western Valley and wrote *I do not know what I have found.*
 
@@ -521,7 +499,7 @@ Thank you.
 
 ---
 
-### Overheard at the reception afterward, and recorded, per the Wen Protocol, in the evening's minutes, because everything is recorded now, forever, just in case
+*Overheard at the reception afterward, and recorded, per the Wen Protocol, in the evening's minutes, because everything is recorded now, forever, just in case*
 
 A very young conservator, meeting the display case for the first time, to her supervisor:
 
