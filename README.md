@@ -510,4 +510,3 @@ Her supervisor, twelfth in a lineage of people who have become very good at sayi
 *Well,* she thought. *About that.*
 
 "So they say," she said. "Champagne?"
-
